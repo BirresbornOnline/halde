@@ -85,8 +85,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17679656987223, 6.628551034050398),
 'name'    : 'Jugendfeuerwehr Birresborn',
 'address' : 'Bahnhofstra&szlig;e 26',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53391833794_0d52dc44d5_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53391833794_0041f403ea_z.jpgg',
 'photoBy' : 'Rudi Benz' 
 },
 {
