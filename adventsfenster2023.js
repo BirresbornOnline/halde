@@ -93,8 +93,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17548817126219, 6.625359936047567),
 'name'    : 'Familie Göres',
 'address' : 'M&uuml;rlenbacher Stra&szlig;e 1',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53393924769_24bc3d34ee_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53393924769_97627e529b_c.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {  
