@@ -101,8 +101,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17358852313214, 6.620574260805694),
 'name'    : 'Familie Bleses',
 'address' : 'In der Noll 13',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53396071650_facab6dded_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53396071650_f88dbf586c_z.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
