@@ -109,8 +109,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.175856949000966, 6.6243416465825895),
 'name'    : 'Physiotherapie Tina Br&uuml;ck',
 'address' : 'Kopper Stra&szlig;e 7',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53398039716_10916892f2_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53398039716_10916892f2_o.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {  
