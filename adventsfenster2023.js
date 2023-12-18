@@ -117,24 +117,24 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.174802935158944, 6.624434754806541),
 'name'    : 'Familie Bleses',
 'address' : 'M&uuml;rlenbacher Stra&szlig;e 10',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53405840979_e1c4216346_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53405840979_e3bef05f89.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
 'pos'     : new google.maps.LatLng(50.176283498437826, 6.623335844802905),
 'name'    : 'Familie B&ouml;r&ouml;cz',
 'address' : 'Kopper Stra&szlig;e 18',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53405698638_d60d8d9910_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53405698638_0acbd96592.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
 'pos'     : new google.maps.LatLng(50.176029458153515, 6.624074715161486),
 'name'    : 'Familie Stahl',
 'address' : 'Kopper Stra&szlig;e 11',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53405519221_9f643443be_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53405519221_e0d3ffce84.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
