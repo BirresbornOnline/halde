@@ -141,8 +141,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17764223899639, 6.624982933647776),
 'name'    : 'Grundschule Birresborn',
 'address' : 'Neustra&szlig;e 7',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53406548809_dcf2acefae_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53406548809_65110195c1.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
