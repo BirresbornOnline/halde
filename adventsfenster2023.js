@@ -149,8 +149,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17567753516035, 6.624948532205393),
 'name'    : 'B&auml;ckerei Blasius',
 'address' : 'Kopper Stra&szlig;e 3',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53408407396_4a93e22945_o.png',
+'photo'   : 'https://live.staticflickr.com/65535/53408407396_e4bee61231_w.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
