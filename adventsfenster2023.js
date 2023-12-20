@@ -157,7 +157,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.18198987655689, 6.630953780862615),
 'name'    : 'Familie Becker',
 'address' : 'Kalkweg 4',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png'
+'photoFull' : 'https://live.staticflickr.com/65535/53410842534_865ae591fa_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53410842534_041d0ffce5_w.jpg'
 },
 {
 'pos'     : new google.maps.LatLng(50.17983777346937, 6.627750317704629),
