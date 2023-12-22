@@ -158,14 +158,15 @@ var calendar = [
 'name'    : 'Familie Becker',
 'address' : 'Kalkweg 4',
 'photoFull' : 'https://live.staticflickr.com/65535/53410842534_865ae591fa_o.jpg',
-'photo'   : 'https://live.staticflickr.com/65535/53410842534_041d0ffce5_w.jpg'
+'photo'   : 'https://live.staticflickr.com/65535/53410842534_041d0ffce5_w.jpg',
+'photoBy' : 'Rudi Benz' 
 },
 {
 'pos'     : new google.maps.LatLng(50.17983777346937, 6.627750317704629),
 'name'    : 'Familie Schmidt',
 'address' : 'Neustrasse 21',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53412963022_a043beb080_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53412963022_15d0c2c570_z.jpg',
 'photoBy' : 'Rudi Benz' 
 }, 
 {
