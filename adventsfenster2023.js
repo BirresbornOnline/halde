@@ -173,16 +173,16 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17456636534942, 6.624300448624867),
 'name'    : 'Familie Thieltges',
 'address' : 'Br&uuml;ckenstra&szlig;e 2 ',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53416886930_aba9566f4a_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53416886930_b4358b9d6f.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
 'pos'     : new google.maps.LatLng(50.17709564526966, 6.6261124199518795),
 'name'    : 'Familie Bitzigeio',
 'address' : 'Gerolsteiner Stra&szlig;e 18',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53416451226_99d4c271c7_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53416451226_a777df5aac.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 {
