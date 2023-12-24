@@ -189,8 +189,8 @@ var calendar = [
 'pos'     : new google.maps.LatLng(50.17550476669239, 6.62444337238004),
 'name'    : 'Ortsgemeinde Birresborn',
 'address' : 'Altes Rathaus',
-'photoFull' : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
-'photo'   : 'https://live.staticflickr.com/65535/53335772043_4d0de202b0_o.png',
+'photoFull' : 'https://live.staticflickr.com/65535/53418764169_126678e495_o.jpg',
+'photo'   : 'https://live.staticflickr.com/65535/53418764169_39d56bcaf7_w.jpg',
 'photoBy' : 'Rudi Benz' 
 },
 ];
